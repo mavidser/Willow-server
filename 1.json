@@ -1,0 +1,94 @@
+[
+	
+	{
+		"id":"10",
+		"q":"अखरोट को अँग्रेज़ी मे क्या कहते है",
+		"a":{"desc":"Apricot"},
+		"b":{"desc":"Apple"},
+		"c":{"desc":"Cashew"},
+		"d":{"desc":"Walnut"},
+		"ans":"d"
+	},
+	{
+		"id":"1",
+		"q":"चित्र मे “लड़की” पहचानीए",
+		"a":{"url":"1a.bmp","desc":"Girl"},
+		"b":{"url":"1b.bmp","desc":"Bread"},
+		"c":{"url":"1c.bmp","desc":"Dog"},
+		"d":{"url":"1d.bmp","desc":"Baby"},
+		"ans":"a"
+	},
+	{
+		"id":"2",
+		"q":"चित्र मे लड़का पहचानीए",
+		"a":{"url":"2a.bmp","desc":"Dog"},
+		"b":{"url":"2b.bmp","desc":"Boy"},
+		"c":{"url":"2c.bmp","desc":"Bag"},
+		"d":{"url":"2d.bmp","desc":"Bat"},
+		"ans":"b"
+	},
+	{
+		"id":"3",
+		"q":"चित्र मे सेब पहचानीए",
+		"a":{"url":"3a.bmp","desc":"Basket"},
+		"b":{"url":"3b.bmp","desc":"Bat"},
+		"c":{"url":"3c.bmp","desc":"Apple"},
+		"d":{"url":"3d.bmp","desc":"Walnut"},
+		"ans":"c"
+	},
+	{
+		"id":"4",
+		"q":"चित्र मे अखरोट को पहचानीए",
+		"a":{"url":"4a.bmp","desc":"Walnut"},
+		"b":{"url":"4b.bmp","desc":"Cashew"},
+		"c":{"url":"4c.bmp","desc":"Raisins"},
+		"d":{"url":"4d.bmp","desc":"Dates"},
+		"ans":"a"
+	},
+	{
+		"id":"5",
+		"q":"चित्र मे कुत्ते को पहचानीए",
+		"a":{"url":"5a.bmp","desc":"Dog"},
+		"b":{"url":"5b.bmp","desc":"Leopard"},
+		"c":{"url":"5c.bmp","desc":"Walrus"},
+		"d":{"url":"5d.bmp","desc":"Bat"},
+		"ans":"a"
+	},
+	{
+		"id":"6",
+		"q":"लड़के को अँग्रेज़ी मे क्या बोलते है",
+		"a":{"desc":"Boy"},
+		"b":{"desc":"Butler"},
+		"c":{"desc":"Bell"},
+		"d":{"desc":"Bread"},
+		"ans":"a"
+
+	},
+	{
+		"id":"7",
+		"q":"सेब को अँग्रेज़ी मे क्या कहते है",
+		"a":{"desc":"Apple"},
+		"b":{"desc":"Apricot"},
+		"c":{"desc":"Ape"},
+		"d":{"desc":"Axe"},
+		"ans":"a"
+	},
+	{
+		"id":"8",
+		"q":"कुत्ते को अँग्रेज़ी मे क्या कहते है",
+		"a":{"desc":"Dog"},
+		"b":{"desc":"Leopard"},
+		"c":{"desc":"Walrus"},
+		"d":{"desc":"Bat"},
+		"ans":"a"
+	},
+	{
+		"id":"9",
+		"q":"अखरोट को अँग्रेज़ी मे क्या कहते है",
+		"a":{"desc":"Date"},
+		"b":{"desc":"Cashew"},
+		"c":{"desc":"Raisins"},
+		"d":{"desc":"Walnut"},
+		"ans":"d"
+	}
+]
