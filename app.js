@@ -89,7 +89,7 @@ io.on('connection', function(socket){
 
 io.on('connection',function(socket){
     socket.on('questions',function(msg){
-      console.log("blabla");
+      console.log("User connected:\033[92m",socket.id,'\033[0m');
       var obj;
       fs.readFile('./1.json', 'utf8', function (err, data) {
         if (err) throw err;
